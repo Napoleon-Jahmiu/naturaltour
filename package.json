@@ -1,0 +1,28 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "This is a project built with SASSY CSS (SCSS) of the SASS and also with the block element modifier methodology",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Napoleon-Jahmiu/naturaltour.git"
+  },
+  "keywords": [
+    "sass",
+    "scss",
+    "html",
+    "bem",
+    "natours"
+  ],
+  "author": "Napoleon Jay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Napoleon-Jahmiu/naturaltour/issues"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
